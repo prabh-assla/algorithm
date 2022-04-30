@@ -1,0 +1,1 @@
+ptr[7] is 1 which is our NEWEST ROOT
